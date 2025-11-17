@@ -83,7 +83,7 @@ int main() {
         case 3:
             //Deletar itens
             if (inicio == NULL) {
-                printf("Lista vazia.\n"); //Caso não tenha itens para deleter
+                printf("Lista vazia.\n"); //Caso não tenha itens para deletar
             } else { // Caso tenha
                 printf("Digite o ID para deletar: "); //Lê o ID do item a ser deletado
                 scanf("%d", &id);
@@ -130,3 +130,4 @@ int main() {
 
     return 0;
 }
+
