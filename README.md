@@ -57,6 +57,8 @@ FINALIZANDO PROGRAMA
 O programa só é finalizando quando o usuário escolhe a opção 4, pois dentro do loop do / while foi definido que enquanto a opção escolhida for diferente de 4(opcao !=4), continuar rodando o programa.
 
 REFERÊNCIAS
-•	PROGRAME SEU FUTURO. Curso de Programação em C: Lista encadeada, lista duplamente encadeada e lista circular (Aula 242). YouTube, 2021. Disponível em :https://www.youtube.com/watch?v=biTMaMxWLRc
-•	WR KITS. Ponteiros em C: Se não aprender com esse vídeo, esquece! YouTube, 2019. Disponível em: https://www.youtube.com/watch?v=1Hgl4TU8CB0
+
+- PROGRAME SEU FUTURO. Curso de Programação em C: Lista encadeada, lista duplamente encadeada e lista circular (Aula 242). YouTube, 2021. Disponível em :https://www.youtube.com/watch?v=biTMaMxWLRc
+	
+- WR KITS. Ponteiros em C: Se não aprender com esse vídeo, esquece! YouTube, 2019. Disponível em: https://www.youtube.com/watch?v=1Hgl4TU8CB0
 
